@@ -1,7 +1,7 @@
 # Shapley Value
 
 ## Introduction:
-The Shapley value is a concept taken from cooperative [game theory](https://en.wikipedia.org/wiki/Game_theory). In a game of multiple players that can work together (form coalitions) to increase the likelihood of a desired outcome (payoff), the Shapley value provides a way to fairly divide the payoff between the players.
+The [shapley value](https://www.youtube.com/watch?v=aThG4YAFErw&t=338s) is a concept taken from cooperative [game theory](https://en.wikipedia.org/wiki/Game_theory). In a game of multiple players that can work together (form coalitions) to increase the likelihood of a desired outcome (payoff), the Shapley value provides a way to fairly divide the payoff between the players.
 
 Essentially, the Shapley value is a measure of a player's average marginal contribution to each coalition. Taking into consideration that players can join coalitions at different points in time (order), and have varying degrees of influence (worth). Its based on the assumption that each ordering has the same probability of occurring, thus players are awarded by their contribution to all permutations.
 
